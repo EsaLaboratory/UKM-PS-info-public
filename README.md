@@ -7,7 +7,7 @@ The growing demand for electrified heating, electrified transportation, and powe
 # Citation 
 If you are interested and would like to use this dataset. Please cite our paper: 
 
-"Datasets of Great Britain Primary Substations Integrated with Household Heating Information ", Yihong Zhou, Chaimaa Essayeh, and Thomas Morstyn, 2024, *submitted to Data in Brief*
+Zhou, Yihong, Chaimaa Essayeh, and Thomas Morstyn. "Datasets of Great Britain Primary Substations Integrated with Household Heating Information." Data in Brief (2024): 110483. https://doi.org/10.1016/j.dib.2024.110483
 
 # File Descriptions 
 A detailed description of the whole dataset can be found in our paper above.
